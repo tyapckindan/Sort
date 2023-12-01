@@ -1,0 +1,5 @@
+Сортировка выбором / Selection sort
+
+Подробнее:
+
+Википедия - https://ru.wikipedia.org/wiki/Сортировка_выбором

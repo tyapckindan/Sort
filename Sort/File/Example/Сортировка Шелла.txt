@@ -1,0 +1,18 @@
+Сортировка Шелла / Shellsort
+
+void shellsort(int* l, int* r) {
+	int sz = r - l;
+	int step = sz / 2;
+	while (step >= 1) {
+		for (int *i = l + step; i < r; i++) {
+			int *j = i;
+			int *diff = j - step;
+			while (diff >= l && *diff > *j) {
+				swap(*diff, *j);
+				j = diff;
+				diff = j - step;
+			}
+		}
+		step /= 2;
+	}
+}

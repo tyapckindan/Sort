@@ -1,0 +1,6 @@
+Timsort
+
+Подробнее timsort описан здесь:
+
+Википедия - http://neerc.ifmo.ru/wiki/index.php?title=Timsort
+Хабр - https://habr.com/ru/companies/infopulse/articles/133303/

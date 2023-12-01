@@ -1,0 +1,6 @@
+Пирамидальная сортировка / Heapsort
+
+Почитать про кучу:
+
+Википедия - https://ru.wikipedia.org/wiki/Куча_(структура_данных)
+Хабр - https://habr.com/ru/articles/112222/

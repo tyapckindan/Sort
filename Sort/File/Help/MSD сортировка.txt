@@ -1,0 +1,5 @@
+MSD (most significant digit):
+
+Подробнее здесь:
+
+Википедия - https://neerc.ifmo.ru/wiki/index.php?title=Цифровая_сортировка

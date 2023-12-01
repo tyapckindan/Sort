@@ -1,0 +1,6 @@
+Шейкерная сортировка / Shaker sort
+
+Полезная информация:
+
+Википедия: https://ru.wikipedia.org/wiki/Сортировка_перемешиванием
+PureCodeCpp: https://purecodecpp.com/archives/1895

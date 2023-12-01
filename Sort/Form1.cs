@@ -29,5 +29,31 @@ namespace Sort
             else
                 richTextBox1.Clear();
         }
+
+        private void comboBox2_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            // Очищаем текстбокс
+            richTextBox1.Clear();
+            string fileName = (string)comboBox1.SelectedItem;
+            string filePath = Path.Combine(@"D:\Лабы СП и РМ\Sort\Sort\File\Example\", fileName + ".txt");
+
+            if (File.Exists(filePath))
+                richTextBox1.AppendText(File.ReadAllText(filePath));
+            else
+                richTextBox1.Clear();
+        }
+
+        private void comboBox3_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            // Очищаем текстбокс
+            richTextBox1.Clear();
+            string fileName = (string)comboBox1.SelectedItem;
+            string filePath = Path.Combine(@"D:\Лабы СП и РМ\Sort\Sort\File\Help", fileName + ".txt");
+
+            if (File.Exists(filePath))
+                richTextBox1.AppendText(File.ReadAllText(filePath));
+            else
+                richTextBox1.Clear();
+        }
     }
 }

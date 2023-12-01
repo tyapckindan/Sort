@@ -1,0 +1,5 @@
+LSD (least significant digit):
+
+Подробнее можно прочитать здесь:
+
+Википедия: https://ru.wikipedia.org/wiki/Поразрядная_сортировка

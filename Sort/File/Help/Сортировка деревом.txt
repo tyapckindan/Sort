@@ -1,0 +1,5 @@
+Сортировка деревом / Tree sort
+
+Статья на Википедии - https://ru.wikipedia.org/wiki/Двоичное_дерево_поиска
+Статья на Хабре - https://habr.com/ru/articles/65617/
+Ещё статья на Хабре - https://habr.com/ru/articles/65617/

@@ -1,0 +1,9 @@
+Сортировка деревом / Tree sort
+
+void treesort(int* l, int* r) {
+	multiset<int> m;
+	for (int *i = l; i < r; i++)
+		m.insert(*i);
+	for (int q : m)
+		*l = q, l++;
+}
