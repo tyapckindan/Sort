@@ -4,14 +4,14 @@
 
 Содержание
 -------
-* [Технологии](https://github.com/tyapckindan/Sort/tree/master#Технологии)
-* [Использование](https://github.com/tyapckindan/Sort/tree/master#Использование)
-* [Разработка](https://github.com/tyapckindan/Sort/tree/master#Разработка)
-* [Contributing](https://github.com/tyapckindan/Sort/tree/master#Contributing)
-* [FAQ](https://github.com/tyapckindan/Sort/tree/master#FAQ)
-* [To do](https://github.com/tyapckindan/Sort/tree/master#To-do)
-* [Команда проекта](https://github.com/tyapckindan/Sort/tree/master#Команда-проекта)
-* [Источники](https://github.com/tyapckindan/Sort/tree/master#Источники)
+* [Технологии](#Технологии)
+* [Использование]()
+* [Разработка]()
+* [Contributing]()
+* [FAQ]()
+* [To do]()
+* [Команда проекта]()
+* [Источники]()
 
 Технологии
 -------
@@ -100,9 +100,8 @@ FAQ
 
 To do
 -------
-- [x] Создать блог
-- [x] Сделать его интересным
-- [ ] Опубликовать его
+- [x] Хранение данных с помощью текстовых данных
+- [x] Просмотр данных
 
 Команда проекта
 -------
